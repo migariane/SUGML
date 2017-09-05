@@ -1,8 +1,11 @@
 # ELTME presentation at the SUGM:
 ## 2017 London Stata Users Group Meeting
+
 # Content of the repository:
 1. Complete version of the slides including a short introduction to the Causal Inference field.
-2. Stata webdoc document including one-sample simulation to compare ELTMLE vs. other double-robust estimators under dual missepecificaton (note: you have to donwload the html document and open with your favorite browser).
+2. Stata webdoc document including one-sample simulation to compare ELTMLE vs. other double-robust estimators under dual missepecification (note: you have to donwload the html document and then open it using your favorite browser).
+
+Note: GitHub help scientist to implement reproducible research (version control with GitHub is FUN!)
 
 # eltmle: Ensemble Learning Targeted Maximum Likelihood Estimation (Implementation for Stata software)  
 
