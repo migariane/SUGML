@@ -3,9 +3,9 @@
 
 # Content of the repository:
 1. Complete version of the slides including a short introduction to the Causal Inference field.
-2. Stata webdoc document including one-sample simulation to compare ELTMLE vs. other double-robust estimators under dual missepecification (note: you have to donwload the html document and then open it using your favorite browser).
+2. Stata webdoc document including one-sample simulation to compare ELTMLE vs. other double-robust estimators under dual missepecification (you have to donwload the html document and then open it using your favorite browser, alternatively you can visit the following link:https://migariane.github.io/eltmle_one_sim.html).
 
-Note: GitHub help scientist to implement reproducible research (version control with GitHub is FUN!)
+Note: GitHub helps scientists to implement reproducible research (version control with GitHub is FUN!)
 
 # eltmle: Ensemble Learning Targeted Maximum Likelihood Estimation (Implementation for Stata software)  
 
