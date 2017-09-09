@@ -1,4 +1,4 @@
-# ELTME presentation at the SUGM:
+# ELTMLE presentation at the SUGM:
 ## 2017 London Stata Users Group Meeting
 
 # Content of the repository:
