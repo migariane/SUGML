@@ -17,7 +17,7 @@ For example, using classical regression models to estimate the ATE requires maki
 
 The latter estimator has the advantage of being **doubly robust**. Moreover, TMLE allows inclusion of **machine learning** algorithms to minimise the risk of model misspecification, a problem that persists for competing estimators. Evidence shows that TMLE typically provides the **least unbiased** estimates of the ATE compared with other double robust estimators.           
 
-The following link provides access to:  
+The following links provide access to:  
 
 1. a comprehensive Statistics in Medicine (SIM) TMLE tutorial: https://onlinelibrary.wiley.com/doi/full/10.1002/sim.76282. 
 2. the complete code and supplementary files from the SIM article: https://github.com/migariane/SIM-TMLE-tutorial.  
@@ -54,7 +54,7 @@ or alternatively to install eltmle directly from github you need to use a Stata 
 Miguel Angel Luque-Fernandez, MA, MPH, MSc, PhD  
 Biomedical Research Institute of Granada, University of Granada, Granada, Spain.  
 LSHTM, NCDE, Cancer Survival Group, London, UK      
-Email: miguel-angel.luque@lshtm.ac.uk 
+Email: miguel-angel.luque at lshtm.ac.uk     
 https://maluque.netlify.com  
 
 
