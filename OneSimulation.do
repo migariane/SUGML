@@ -3,16 +3,18 @@ webdoc init OneSimulation, replace logall header(width(800px) stscheme(classic))
 /***
 <html>
 <head>
-<title>ELTMLE vs. competitors (RA, IPTW, IPTW-RA, and AIPTW)</title>
+<title>ELTMLE vs. competitors (RA, IPTW, IPTW-RA, and AIPTW) UNDER SEVERE MISSPECIFICATION</title>
 </head>
 ***/
 
 /***
 <body>
 <h2>2017 LONDON STATA USERS GROUP MEETING</br>
+<h2>2018 BARCELONA STATA USERS GROUP MEETING</br>
 <p></p>
 *************************************************************************************
 *! 2017 STATA USERS GROUP MEETING LONDON</br>
+*! 2018 STATA USERS GROUP MEETING BARCELONA</br>
 *! ELTMLE: Stata module for Ensemble Learning Targeted Maximum Likelihood Estimation</br>
 *! by Miguel Angel Luque-Fernandez, PhD [cre,aut]</br>
 *! Bug reports:</br>
@@ -43,7 +45,7 @@ III) Results</br>
 ***/
 clear 
 set more off
-cd "D:\Dropbox\SUML\OneSimulation"
+cd "/Users/MALF/Dropbox/SUML/OneSimulation"
 //cd "Set your path"
 
 /***
